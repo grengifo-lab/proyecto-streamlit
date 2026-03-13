@@ -1,2 +1,2 @@
 # proyecto-streamlit
-repositorio prueba curso para la practica.
+Repositorio prueba curso para la practica.
